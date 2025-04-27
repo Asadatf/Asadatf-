@@ -1,6 +1,5 @@
-# 💫 About Me:
-
-I'm a software engineer with experience in full-stack development, cloud technologies, and machine learning. I specialize in building modern web apps using React, Next.js, Node.js, and MongoDB, with deployment experience on AWS and Vercel. Currently, I'm a trainee at Empiric Technology, working on scalable, CMS-driven apps with Strapi and Payload. I love solving problems, learning new tools, and building meaningful projects.
+<h1>Hi 👋, I'm Asad an aspiring Software Engineer</h1>
+<p>A passionate full stack developer</p>
 
 ## 🌐 Socials:
 
